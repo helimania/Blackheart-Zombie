@@ -1,9 +1,9 @@
 # Blackheart Zombie Engine
-Fully compatible with Raspberry PI 3 Model A+
+Fully compatible with Raspberry PI 3 Model A+ https://github.com/helimania/zombie_basic
 
 ![preview0](https://github.com/helimania/Blackheart-Zombie/blob/master/img/0.jpg)
 
-And now compatible with Freescale iMX-6 
+And now compatible with Freescale iMX-6 https://github.com/helimania/NXP-iMX6
 
 ![preview1](https://github.com/helimania/Blackheart-Zombie/blob/master/img/2.jpg)
 
