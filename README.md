@@ -7,7 +7,7 @@ And now compatible with Freescale iMX-6
 
 ![preview1](https://github.com/helimania/Blackheart-Zombie/blob/master/img/2.jpg)
 
-Based on Linux kernel 4.19
+Based on lightweigt Linux kernel 4.19 and latest QT 5.15
 
 ![preview12](https://github.com/helimania/Blackheart-Zombie/blob/master/img/12.jpg)
 
