@@ -1,4 +1,7 @@
 # Blackheart Zombie Engine
+
+![preview40](https://github.com/helimania/Blackheart-Zombie/blob/master/img/40.jpg)
+
 Fully compatible with Raspberry PI 3 Model A+ https://github.com/helimania/zombie_basic
 
 ![preview0](https://github.com/helimania/Blackheart-Zombie/blob/master/img/0.jpg)
