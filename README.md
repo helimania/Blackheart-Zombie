@@ -15,7 +15,7 @@ Fastest boot
 
 ![preview20](https://github.com/helimania/Blackheart-Zombie/blob/master/img/20.png)
 
-Supports low cost displays on basic coplectation
+Supports low cost displays on basic complectations
 
 ![preview2](https://github.com/helimania/Blackheart-Zombie/blob/master/img/1.jpg)
 
@@ -31,3 +31,6 @@ AP Mode for editing all configurations from desktop or from mobile gadgets
 
 ![preview10](https://github.com/helimania/Blackheart-Zombie/blob/master/img/10.jpg)
 
+Web based port diagnostics
+
+![preview13](https://github.com/helimania/Blackheart-Zombie/blob/master/img/13.jpg)
