@@ -40,6 +40,10 @@ Onboard web based sceen editor
 
 ![preview4](https://github.com/helimania/Blackheart-Zombie/blob/master/img/4.jpg)
 
+And config editor for experts
+
+![preview41](https://github.com/helimania/Blackheart-Zombie/blob/master/img/41.jpg)
+
 AP Mode for editing all configurations from desktop or from mobile gadgets
 
 ![preview10](https://github.com/helimania/Blackheart-Zombie/blob/master/img/10.jpg)
