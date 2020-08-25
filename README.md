@@ -24,11 +24,11 @@ Fastest boot
 
 ![preview20](https://github.com/helimania/Blackheart-Zombie/blob/master/img/20.png)
 
-Supports low cost displays (128x480) for basic complectations
+Supports low cost SHARP displays (128x480) for basic complectations
 
 ![preview2](https://github.com/helimania/Blackheart-Zombie/blob/master/img/1.jpg)
 
-And full HD displays (1920x720) with touch screen for top complectations
+And Full HD BOE displays (1920x720) with touch screen for top complectations
 
 ![preview30](https://github.com/helimania/Blackheart-Zombie/blob/master/img/30.jpg)
 
