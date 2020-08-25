@@ -34,3 +34,7 @@ AP Mode for editing all configurations from desktop or from mobile gadgets
 Web based port diagnostics
 
 ![preview13](https://github.com/helimania/Blackheart-Zombie/blob/master/img/13.jpg)
+
+All individual builds secured with security key
+
+![preview11](https://github.com/helimania/Blackheart-Zombie/blob/master/img/11.jpg)
