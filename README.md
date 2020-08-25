@@ -3,9 +3,15 @@ Fully compatible with Raspberry PI 3 Model A+ https://github.com/helimania/zombi
 
 ![preview0](https://github.com/helimania/Blackheart-Zombie/blob/master/img/0.jpg)
 
+![preview31](https://github.com/helimania/Blackheart-Zombie/blob/master/img/31.jpg)
+
 And now compatible with Freescale iMX-6 https://github.com/helimania/NXP-iMX6
 
 ![preview1](https://github.com/helimania/Blackheart-Zombie/blob/master/img/2.jpg)
+
+With onboard LVDS interface
+
+![preview32](https://github.com/helimania/Blackheart-Zombie/blob/master/img/32.jpg)
 
 Based on lightweigt Linux kernel 4.19 and latest QT 5.15
 
@@ -18,6 +24,10 @@ Fastest boot
 Supports low cost displays on basic complectations
 
 ![preview2](https://github.com/helimania/Blackheart-Zombie/blob/master/img/1.jpg)
+
+And full HD displays for top complectations
+
+![preview30](https://github.com/helimania/Blackheart-Zombie/blob/master/img/30.jpg)
 
 Standard sceen 
 
