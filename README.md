@@ -6,3 +6,7 @@ Fully compatible with Raspberry PI 3 Model A+
 And now compatible with Freescale iMX-6 
 
 ![preview2](https://github.com/helimania/Blackheart-Zombie/blob/master/img/2.jpg)
+
+Supports low cost displays on basic coplectation
+
+![preview3](https://github.com/helimania/Blackheart-Zombie/blob/master/img/1.jpg)
