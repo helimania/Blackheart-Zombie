@@ -11,6 +11,10 @@ Based on Linux kernel 4.19
 
 ![preview12](https://github.com/helimania/Blackheart-Zombie/blob/master/img/12.jpg)
 
+Fastest boot
+
+![preview20](https://github.com/helimania/Blackheart-Zombie/blob/master/img/20.jpg)
+
 Supports low cost displays on basic coplectation
 
 ![preview2](https://github.com/helimania/Blackheart-Zombie/blob/master/img/1.jpg)
